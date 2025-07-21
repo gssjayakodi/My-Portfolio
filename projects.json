@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Website Uptime Checker",
+    "icon": "bi bi-globe2",
+    "description": "Monitors website availability and sends automated email alerts when a site is down. Perfect for QA testers and developers.",
+    "features": [
+      "Automated website monitoring",
+      "Email alerts via Gmail SMTP",
+      "Node.js & Nodemailer"
+    ],
+    "tags": ["Node.js", "JavaScript"],
+    "link": "https://github.com/gssjayakodi/websiteUptimeChecker.git"
+  },
+  {
+    "title": "Weather + AQI Dashboard",
+    "icon": "bi bi-cloud-sun",
+    "description": "Responsive dashboard displaying real-time weather data and air quality index with charts and light/dark mode toggle.",
+    "features": [
+      "Real-time weather & AQI data",
+      "Interactive charts with Recharts",
+      "Dark/Light mode toggle"
+    ],
+    "tags": ["React.js", "API"],
+    "link": "https://github.com/gssjayakodi/weather-aqi-dashboard.git"
+  },
+  {
+    "title": "Bug Tracking System",
+    "icon": "bi bi-bug",
+    "description": "Full-stack Java web application for QA bug reporting and tracking with user management, dashboard, and export features.",
+    "features": [
+      "Role-based access control",
+      "Bug reporting & tracking",
+      "MVC architecture pattern"
+    ],
+    "tags": ["Java", "MySQL"],
+    "link": "https://github.com/gssjayakodi/BugTrackingSystem-Java.git"
+  },
+  {
+    "title": "Leave Management System",
+    "icon": "bi bi-calendar-check",
+    "description": "Enterprise-grade web application for managing employee leave requests with approval workflows and admin controls.",
+    "features": [
+      "Employee & admin dashboards",
+      "Approval workflow system",
+      "Scalable architecture"
+    ],
+    "tags": ["Java", "JSP"],
+    "link": "https://github.com/gssjayakodi/Leave-management-system.git"
+  }
+]
